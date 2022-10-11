@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<signos>
+    <signo>
+        <dtaInicio>03-21</dtaInicio>
+        <dtaFinal>04-20</dtaFinal>
+        <descSigno>Áries ♈</descSigno>
+        <personalidade>
+            Impulsivo, o ariano não pensa muito sobre seus atos. É aquele que primeiro age, depois reflete. Agitado, precisa de muita atividade para gastar a energia, senão pode ficar agressivo e explosivo.
+        </personalidade>
+    </signo>
+
+    <signo>
+        <dtaInicio>04-21</dtaInicio>
+        <dtaFinal>05-21</dtaFinal>
+        <descSigno>Touro ♉</descSigno>
+        <personalidade>
+            Teimoso, o taurino é determinado e protetor. Precisa de segurança e estabilidade para ser feliz, e conquista isso com muito trabalho e concentração. Carinhoso, o taurino pode ser ciumento com quem ama.
+        </personalidade>
+    </signo>
+
+    <signo>
+        <dtaInicio>05-22</dtaInicio>
+        <dtaFinal>06-21</dtaFinal>
+        <descSigno>Gêmeos ♊</descSigno>
+        <personalidade>
+            Espontâneo e um pouco instável, o geminiano é uma verdadeira caixinha de surpresas. Como é volátil, muitas vezes nem mesmo o geminiano se entende, mas o importante é que ele está sempre de bom humor e em busca de aventuras.
+        </personalidade>
+    </signo>
+
+    <signo>
+        <dtaInicio>06-21</dtaInicio>
+        <dtaFinal>07-23</dtaFinal>
+        <descSigno>Câncer ♋</descSigno>
+        <personalidade>
+            Família é a palavra-chave para o canceriano. Tranquilo e emotivo, gosta de ficar em casa, fazer programas com quem ama e curtir momentos com os parentes. Curioso, faz amizade com facilidade, mas pode ser um pouco sensível.
+        </personalidade>
+    </signo>
+
+    <signo>
+        <dtaInicio>07-24</dtaInicio>
+        <dtaFinal>08-23</dtaFinal>
+        <descSigno>Leão ♌</descSigno>
+        <personalidade>
+            Este é signo que veio para brilhar. O leonino gosta de chamar a atenção e ser o centro do mundo, mas também é muito amável e leal. Simpático e comunicativo, o nativo de leão pode ser um pouco ciumento e inseguro.
+        </personalidade>
+    </signo>
+
+    <signo>
+        <dtaInicio>08-24</dtaInicio>
+        <dtaFinal>09-23</dtaFinal>
+        <descSigno>Virgem ♍</descSigno>
+        <personalidade>
+            Perspicaz e inteligente, o virginiano está acostumado com o sucesso, por isso se cobra muito, assim como aos demais. Por isso, pode ser um pouco rígido e magoar quem ama. Tímido, prefere programas tranquilos a grandes eventos.
+        </personalidade>
+    </signo>
+    
+    <signo>
+        <dtaInicio>09-24</dtaInicio>
+        <dtaFinal>10-22</dtaFinal>
+        <descSigno>Libra ♎</descSigno>
+        <personalidade>
+            O libriano gosta do que é belo e harmonioso. Não gosta de conflitos e por isso tenta ser imparcial em debates e brigas. Indeciso, pode demorar muito para escolher coisas simples, como o que comer ou vestir. Bom gosto define este signo.
+        </personalidade>
+    </signo>
+
+    <signo>
+        <dtaInicio>10-23</dtaInicio>
+        <dtaFinal>11-21</dtaFinal>
+        <descSigno>Escorpião ♏</descSigno>
+        <personalidade>
+            Determinado, o escorpiano vai até o fim para conquistar os seus objetivos. Sensual e romântico, gosta de estar em relacionamentos, mas pode ser desconfiado enquanto não se sentir seguro com a pessoa.
+        </personalidade>
+    </signo>
+
+    <signo>
+        <dtaInicio>11-22</dtaInicio>
+        <dtaFinal>12-21</dtaFinal>
+        <descSigno>Sagitário ♐</descSigno>
+        <personalidade>
+            Um signo de bem com a vida, que está sempre em busca de ação e que vive rodeado de amigos. Este é o signo de sagitário, que é sonhador e adora conhecer pessoas e lugares novos.
+        </personalidade>
+    </signo>
+
+    <signo>
+        <dtaInicio>12-22</dtaInicio>
+        <dtaFinal>12-31</dtaFinal>
+        <descSigno>Capricórnio ♑</descSigno>
+        <personalidade>
+            Trabalhador, tímido e educado, o capricórnio pode passar uma imagem de fechado e até mesmo antipático, mas é que ele eprecisa confiar em quem está ao seu lado para se abrir totalmente. Com paciência, ele se mostra um amigo leal e um companheiro fiel.
+        </personalidade>
+    </signo>
+
+    <signo>
+        <dtaInicio>01-01</dtaInicio>
+        <dtaFinal>01-19</dtaFinal>
+        <descSigno>Capricórnio ♑</descSigno>
+        <personalidade>
+            Trabalhador, tímido e educado, o capricórnio pode passar uma imagem de fechado e até mesmo antipático, mas é que ele eprecisa confiar em quem está ao seu lado para se abrir totalmente. Com paciência, ele se mostra um amigo leal e um companheiro fiel.
+        </personalidade>
+    </signo>
+
+    <signo>
+        <dtaInicio>01-20</dtaInicio>
+        <dtaFinal>02-19</dtaFinal>
+        <descSigno>Aquário ♒</descSigno>
+        <personalidade>
+            Independente, o aquariano preza muito por sua liberdade. Gosta de viajar, sair e conhecer pessoas novas. Tem uma mente aberta e gosta de tudo o que é inovador e moderno, desde roupas e tecnologia, até mesmo atitudes comportamentais.
+        </personalidade>
+    </signo>
+
+    <signo>
+        <dtaInicio>02-20</dtaInicio>
+        <dtaFinal>03-20</dtaFinal>
+        <descSigno>Peixes ♓</descSigno>
+        <personalidade>
+            Este é o signo mais romântico do zodíaco. Sonhador e carinhoso, ele está sempre preocupado com o bem estar dos outros. Sensível e carinhoso, acredita em contos de fadas e acha que todos merecem um final feliz.
+        </personalidade>
+    </signo>
+    
+</signos>
